@@ -1,2 +1,2 @@
-# Pythongui
-Projects based on pythongui module
+# pyautogui
+Projects based on pyautogui module
